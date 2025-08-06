@@ -24,3 +24,8 @@ A simple Java console-based ATM simulator that allows users to log in using an a
 
 ## 📁 File Structure
 
+ATM-Simulator/
+├── ATM.java         // Main menu and control logic
+├── Account.java     // Class representing a bank account
+├── Bank.java        // Class for managing multiple accounts
+└── README.md        // This file
